@@ -1,0 +1,20 @@
+posts:
+- Queries
+  - posts
+  - post 
+- Mutations
+  - vote
+  - createPost
+  - updatePost
+  - deletePost
+
+
+users:
+- Queries
+  - me
+- Mutations
+  - changePassword
+  - forgotPassword
+  - register
+  - login
+  - logout
