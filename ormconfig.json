@@ -1,10 +1,10 @@
 {
   "type": "postgres",
-  "host": "localhost",
-  "port": 5432,
-  "username": "postgres",
-  "password": "postgres",
-  "database": "lireddit",
+  "host": "dbhost",
+  "port": "dbport",
+  "username": "dbuser",
+  "password": "dbpassword",
+  "database": "dbname",
   "entities": [
     "dist/entities/*.js"
   ],
